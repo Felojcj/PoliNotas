@@ -391,7 +391,7 @@ p {
     margin: 0 0 20px 0;
     -webkit-transform: skew(-2.5deg);
             transform: skew(-2.5deg);
-    padding: 9px;
+    padding: 15px;
     text-align: center;
     box-shadow: 0 9px 46px 8px rgba(0, 0, 0, 0.14), 0 11px 15px -7px rgba(0, 0, 0, 0.12), 0 24px 38px 3px rgba(0, 0, 0, 0.2); }
     @media screen and (min-width: 1024px) {
