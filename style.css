@@ -30,6 +30,9 @@ p {
   position: fixed;
   z-index: 500;
   top: 0; }
+  @media screen and (min-width: 1024px) {
+    .main-header {
+      transition: .5s all; } }
   .main-header__logo {
     width: 45%;
     height: 50px;
